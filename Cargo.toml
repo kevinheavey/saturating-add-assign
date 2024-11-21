@@ -1,0 +1,8 @@
+[package]
+name = "saturating_add_assign"
+description = "Convenience macro for AddAssign with saturating arithmetic."
+documentation = "https://docs.rs/saturating_add_assign"
+edition = "2021"
+version = "1.0.0"
+repository = "https://github.com/kevinheavey/saturating_add_assign"
+license = "MIT"
